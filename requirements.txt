@@ -1,0 +1,13 @@
+numpy==1.26.4
+scipy==1.13.0
+tensorflow==2.15.0
+keras==2.15.0
+opencv-python==4.9.0.80
+scikit-learn==1.4.2
+nltk==3.8.1
+spacy==3.5.0
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
+Pillow==10.3.0
+python-Levenshtein==0.25.1
+mediapipe==0.10.11
+imbalanced-learn==0.12.1

@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Logs & outputs
+logs/
+*.log
+*.csv
+*.pb
+*.pbtxt
+
+# Checkpoints & models
+assets/models/*.h5
+assets/models/*.keras
+assets/models/*.npy
+*.ckpt
+*.ckpt-*
+checkpoint
+
+# TensorBoard events
+events.out.tfevents.*
+
+# IDE configs
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+data/
+dist/
+*.egg-info/
+
+# Temporary / experiment files
+=*

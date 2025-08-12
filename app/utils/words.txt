@@ -1,0 +1,10 @@
+hello
+world
+yes
+no
+help
+thank
+you
+i
+love
+python
